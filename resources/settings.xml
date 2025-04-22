@@ -30,7 +30,7 @@
 		<setting id="filesizethumb_alert" type="slider" label="Max Total Files Size (MB)" default="500" range="50,2000" option="int" />
 	</category>
 	<category label="Advanced">
-		<setting id="update_url" type="text" label="Update URL" default="http://yourdomain.com/kodi/version.php"/>
+		<setting id="update_url" type="text" label="Update URL" default="https://drive.google.com/drive/folders/1vaCKBqBzGAoyfuK5vI1FHoi0wiTY4XeU?usp=drive_link"/>
 		<setting id="update_test" type="bool" label="Select Test Configuration" default="false"/>
 		<setting id="fix_special" type="bool" label="Try to convert physical path to special:// during backup" default="true"/>
 		<setting type="sep"/>
